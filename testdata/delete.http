@@ -1,0 +1,5 @@
+# curl -X DELETE http://localhost:8082/delete?token=01926561-a06e-7e07-8ede-6e9ea00dbf06
+DELETE http://localhost:8082/delete?token=01926561-a06e-7e07-8ede-6e9ea00dbf06
+
+###
+
