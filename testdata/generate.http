@@ -1,0 +1,4 @@
+# curl -X POST http://localhost:8082/generate
+POST http://127.0.0.1:8082/generate
+
+###
