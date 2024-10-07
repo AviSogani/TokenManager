@@ -3,7 +3,7 @@
 Token manager assigns and fetches tokens based on expiry.
 
 There are various endpoints which are supported. Sample request and response can be seen in the screenshots below.
-Alternatively Token.odt can be downloaded to view them.
+Alternatively [TokenFile](Token.odt) can be downloaded to view them.
 
 1. [Generate](screenshots/generate.png)
 
